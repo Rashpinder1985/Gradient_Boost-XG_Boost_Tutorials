@@ -25,7 +25,7 @@ In this project, we:
 
 ## 🧪 About the Dataset
 
-The [`synthetic_ev_battery_data.csv`](notebooks/gradient_and_xgboost_notebook.ipynb) file contains 1,000 records with the following columns:
+The [`synthetic_ev_battery_data.csv`](data/synthetic_ev_battery_data.csv) file contains 1,000 records with the following columns:
 
 | Feature            | Description                               |
 |--------------------|-------------------------------------------|
