@@ -5,8 +5,9 @@ This document provides an overview of the presentation structure and links to su
 
 ---
 
-## 1. Introduction to Gradient Boosting  
-🔹 **Source:** [Introduction to gradient boosting.pdf](docs/introduction to gradient boosting.pdf)
+## 1. Introduction to Gradient Boosting   
+🔹 **Source:** [Introduction to Gradient Boosting (PDF)](docs/introduction%20to%20gradient%20boosting.pdf)
+
 
 ---
 
