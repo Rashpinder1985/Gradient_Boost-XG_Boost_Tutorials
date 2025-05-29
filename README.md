@@ -12,17 +12,16 @@ In this project, we:
 
 ## 📂 Project Structure
 
-| File/Folder                      | Description                                                  |
-|----------------------------------|--------------------------------------------------------------|
-| `gradient_boosting_xgboost_deck.pdf` | Slide deck explaining theory + practical examples             |
-| `gradient_and_xgboost_notebook.ipynb` | Colab notebook with model training, visualization & eval     |
-| `synthetic_ev_battery_data.csv` | Synthetic dataset simulating EV battery characteristics      |
+| Folder/File                                      | Description                                                  |
+|--------------------------------------------------|--------------------------------------------------------------|
+| `data/synthetic_ev_battery_data.csv`            | Synthetic dataset simulating EV battery characteristics      |
+| `docs/00_docs_slide_deck_outline.md`            | Outline of slide deck with links to each PDF section         |
+| `docs/*.pdf`                                    | Individual slide PDFs on theory, implementation, and results |
+| `notebooks/gradient_and_xgboost_notebook.ipynb` | Colab notebook for training, evaluation, and visualization   |
 
-## 📑 Slide Deck Highlights
+## 📑 Slide Deck 
 
-
-
-> 📎 Full deck outline: [`00_docs_slide_deck_outline.md`](./00_docs_slide_deck_outline.md)
+> 📎 Full deck outline: [`00_docs_slide_deck_outline.md`](./doc/00_docs_slide_deck_outline.md)
 
 ## 🧪 About the Dataset
 
