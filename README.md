@@ -20,13 +20,7 @@ In this project, we:
 
 ## 📑 Slide Deck Highlights
 
-The deck is divided into six sections. Click below to view individual slide PDFs:
-1. [Introduction to Gradient Boosting](./Introduction%20to%20gradient%20boosting.pdf)
-2. [Gradient Boosting with Electric Vehicles](./gradient%20boosting%20with%20EV.pdf)
-3. [Hands-On with Matrices](./gradient%20boosting%20with%20matrices.pdf)
-4. [Gradient Boosting with Python](./gradient%20boosting%20python%20tutorial.pdf)
-5. [XGBoost: Advanced Boosting](./XGBoost.pdf) – covers enhancements such as regularization and parallelism
-6. [Model Comparison](./comparison_xgboostvsgradientboost.pdf) – a side-by-side performance breakdown
+
 
 > 📎 Full deck outline: [`00_docs_slide_deck_outline.md`](./00_docs_slide_deck_outline.md)
 
