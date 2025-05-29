@@ -21,7 +21,7 @@ In this project, we:
 
 ## 📑 Slide Deck 
 
-> 📎 Full deck outline: [`00_docs_slide_deck_outline.md`](./doc/00_docs_slide_deck_outline.md)
+> 📎 Full deck outline: [`00_docs_slide_deck_outline.md`](docs/00_docs_slide_deck_outline.md)
 
 ## 🧪 About the Dataset
 
